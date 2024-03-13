@@ -1,0 +1,13 @@
+[{
+  "email": "test@test.com",
+  "firstname": "aaa",
+  "lastname": "bbb",
+  "password": "$2a$10$s.6oLUTK7PzBQAvEOjv5Gudz7a9daqzBsxkxjcZpSoNT1VWdxk1s6",
+  "bookmarks": [],
+  "createdAt": {
+    "date": "2024-03-04T14:17:34.028Z"
+  },
+  "updatedAt": {
+    "date": "2024-03-04T14:17:34.028Z"
+  }
+}]

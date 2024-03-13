@@ -1,0 +1,14 @@
+# MONGO_DB= 
+# NEXT_PUBLIC_DOMIN=http:localhost:3000
+# NEXT_PUBLIC_API_DOMIN=http:localhost:3000/api
+
+
+# set own GOOGLE_CLIENT_ID= and GOOGLE_CLIENT_SECRET= by this url  https://console.cloud.google.com/apis/dashboard?project=student-416121&supportedpurview=project
+   
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL_INTERNAL=http://localhost:3000
+NEXTAUTH_SECRET=gQsVLMvRd6BGihgJtvNg4tbYD5vxPK83dVlqkmL4w0c=
+
+TOKEN_SECRET=gQsVLMvRd6BGihgJtvNg4tbYD5vxPK83dVlqkmL4w0c=
